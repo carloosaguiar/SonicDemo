@@ -1,0 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#gameScreen{
+    margin: 10px 11%;
+    border: 1px solid #000;
+}
